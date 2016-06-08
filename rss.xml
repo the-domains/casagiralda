@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[CasaGiralda ]]></title>
         <description><![CDATA[CasaGiralda ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/casagiralda/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 08 Jun 2016 15:29:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 08 Jun 2016 22:33:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/casagiralda/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Hostería Casa Giralda</p>]]></description>
-            <link>undefinedhosteria-casa-giralda/index.html</link>
+            <description><![CDATA[<p>Un nuevo proyecto en Baños - Ecuador en donde nos planteamos rejuvenecer las antiguas cabañas, trayendolas de regreso al siglo XXI manteniendo la hermosura y el énfasis a la madera.</p>]]></description>
+            <link>https://thegrid.ai/casagiralda/hosteria-casa-giralda/index.html</link>
             <guid isPermaLink="false">275de52b-1c0b-4fe6-9576-bf578289c45f</guid>
-            <pubDate>Wed, 08 Jun 2016 15:29:56 GMT</pubDate>
+            <pubDate>Wed, 08 Jun 2016 22:33:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
