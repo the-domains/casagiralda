@@ -1,0 +1,28 @@
+name: 'CasaGiralda '
+favicon: null
+layout_spectrum: 0.8557961136102676
+typography_spectrum: 0.11765791685320437
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.3795530507341027
+  lightness: 0.2669301563873887
+  saturation: 0.7080324681010097
+  rhythmicContrast: 0.7294143864419311
+purpose: []
