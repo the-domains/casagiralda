@@ -2,6 +2,7 @@ name: 'CasaGiralda '
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.14636
+title: Hostería Casa Giralda
 cta:
   domain: null
   bucket: null
